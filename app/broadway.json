@@ -1,0 +1,467 @@
+[
+  {
+    "": "",
+    "Show": "1984",
+    "Theater": "Hudson\n141 W. 44th St\nbetween 6th and Broadway",
+    "First Preview Date": "5/18/2017",
+    "Closing Date": "10/8/2017",
+    "Schedule": [
+      {
+        "Monday":null,
+        "Tuesday":"8:00PM",
+        "Wednesday":["2:00PM","8:00PM"],
+        "Thursday":"8:00PM",
+        "Friday":"8:00PM",
+        "Saturday":["2:00PM","8:00PM"],
+        "Sunday":"3:00PM",
+        "start_date":null,
+        "end_date":"6/26/2017"
+      },
+      {
+        "Monday":"7:00PM",
+        "Tuesday":"7:00PM",
+        "Wednesday":"7:00PM",
+        "Thursday":"7:00PM",
+        "Friday":["5:00PM","9:00PM"],
+        "Saturday":["5:00PM","9:00PM"],
+        "Sunday":null,
+        "start_date":"6/27/2017",
+        "end_date":null
+      }
+    ],
+    "Tickets": [
+      {
+        "name":"Mobile Lottery",
+        "amount":"$19.84",
+        "payment_method":"credit card only",
+        "description":"Enter via TodayTix mobile app beginning at midnight on the day of the performance. Winners are notified via push notification and email 2-4 hours before curtain. 2 tickets per person."
+      }
+    ],
+    "url":"http://www.revisedtruth.com/"
+  },
+  {
+    "": "",
+    "Show": "Aladdin",
+    "Theater": "New Amsterdam\n214 W. 42nd St\nbetween 7th and 8th",
+    "First Preview Date": "2/26/2014",
+    "Closing Date": "open",
+    "Schedule":  [
+      {
+        "Monday":null,
+        "Tuesday":"7:00PM",
+        "Wednesday":["2:00PM","8:00PM"],
+        "Thursday":"7:00PM",
+        "Friday":"8:00PM",
+        "Saturday":["2:00PM","8:00PM"],
+        "Sunday":"3:00PM",
+        "start_date":null,
+        "end_date":null
+      }
+    ],
+    "Tickets": [
+      {
+        "name":"Digital Lottery",
+        "amount":"$30",
+        "payment_method":"credit card only",
+        "description":"Enter at from 7 PM the day before until 8:30 AM on the day of the performance. Winners will have 60 minutes to pay for their tickets online. 2 tickets per person",
+        "url":"http://aladdinthemusical.com/lottery"
+      }
+    ],
+    "url":"http://www.aladdinthemusical.com/"
+  },
+  {
+    "": "",
+    "Show": "Anastasia",
+    "Theater": "Broadhurst\n235 W. 44th St\nbetween 7th and 8th",
+    "First Preview Date": "3/23/2017",  
+    "Closing Date": "open",
+    "Schedule":  [
+      {
+        "Monday":null,
+        "Tuesday":"7:30PM",
+        "Wednesday":["2:00PM","7:30PM"],
+        "Thursday":"7:30PM",
+        "Friday":"8:00PM",
+        "Saturday":["2:00PM","8:00PM"],
+        "Sunday":"3:00PM",
+        "start_date":null,
+        "end_date":null
+      }
+    ],
+    "Tickets": [
+      {
+        "name":"Digital Lottery",
+        "amount":"$42",
+        "payment_method":"cash or credit card accepted",
+        "description":"Enter at anastasiabroadwaylottery.com on the day of the performance, up to 9 AM for matinees and 2 PM for evenings. 2 tickets per person.",
+        "url":"http://aladdinthemusical.com/lottery"
+      }
+    ],
+    "url":"http://www.anastasiabroadway.com/"
+  },
+  {
+    "": "",
+    "Show": "The Band's Visit",
+    "Theater": "Barrymore \n 243 W. 47th St \n between Broadway and 8th",
+    "First Preview Date": "10/7/2017",
+    "Closing Date": "open",
+    "Schedule": [
+      {
+        "Monday":null,
+        "Tuesday":"8:00PM",
+        "Wednesday":["2:00PM","8:00PM"],
+        "Thursday":"8:00PM",
+        "Friday":"8:00PM",
+        "Saturday":["2:00PM","8:00PM"],
+        "Sunday":null,
+        "start_date":null,
+        "end_date":"11/13/2017"
+      },
+      {
+        "Monday":"7:00PM",
+        "Tuesday":"7:00PM",
+        "Wednesday":["2:00PM","7:00PM"],
+        "Thursday":"7:00PM",
+        "Friday":"8:00PM",
+        "Saturday":["2:00PM","8:00PM"],
+        "Sunday":"3:00PM",
+        "start_date":"11/14/2017",
+        "end_date":null
+      }
+    ],
+    "Tickets": []
+  },
+  {
+    "": "",
+    "Show": "Bandstand",
+    "Theater": "Jacobs\n242 W. 45th St\nbetween 7th and 8th",
+    "First Preview Date": "3/31/2017",
+    "Closing Date": "open",
+    "Schedule": "Tues at 7pm\nWed at 8pm\nThurs at 7pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$35\n- general rush"
+  },
+  {
+    "": "",
+    "Show": "Beautiful:\nThe Carole King Musical",
+    "Theater": "Sondheim\n      124\nW. 43rd St\nbetween Broadway and 6th",
+    "First Preview Date": "11/21/2013",
+    "Closing Date": "open",
+    "Schedule": "Tues, Thurs\nat 7pm\nFri-Sat at 8pm\nWed, Sat, Sun at 2pm\n      Sun at 7pm",
+    "Tickets": "$40\n- general rush"
+  },
+  {
+    "": "",
+    "Show": "The Book of Mormon",
+    "Theater": "O'Neill\n      230 W. 49th St\nbetween Broadway and 8th",
+    "First Preview Date": "2/24/2011",
+    "Closing Date": "open",
+    "Schedule": "Tues-Thurs\nat 7pm\nFri-Sat at 8pm\nSat, Sun at 2pm\nSun at 7pm",
+    "Tickets": "$32\n- lottery,\n      $50\n- digital lottery,\n      $27\n- SRO"
+  },
+  {
+    "": "",
+    "Show": "A Bronx Tale",
+    "Theater": "Longacre\n220 W. 48th St\n      between Broadway and 8th",
+    "First Preview Date": "11/3/2016",
+    "Closing Date": "open",
+    "Schedule": "Tues-Thurs at 7pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$39\n- general rush"
+  },
+  {
+    "": "",
+    "Show": "Cats",
+    "Theater": "Neil Simon\n250 W. 52nd St\n      between Broadway and 8th",
+    "First Preview Date": "7/14/2016",
+    "Closing Date": "open",
+    "Schedule": "Mon at 8pmTues, Thurs at 7pm\nFri-Sat at 8pmSun at 7pm\nSat, Sun at 2pm",
+    "Tickets": "$40\n- digital lottery"
+  },
+  {
+    "": "",
+    "Show": "Charlie and the Chocolate\nFactory",
+    "Theater": "Lunt-Fontanne\n205 W. 46th St\n      between\nBroadway and 8th",
+    "First Preview Date": "3/28/2017",
+    "Closing Date": "open",
+    "Schedule": "Mon, Tues at 7pm\nFri-Sat at 8pm\nSat at 2pm\nWed, Sun at 1pmSun at 6:30pm",
+    "Tickets": "$40\n- general rush"
+  },
+  {
+    "": "",
+    "Show": "Chicago",
+    "Theater": "Ambassador\n      219 W. 49th St\nbetween Broadway and 8th",
+    "First Preview Date": "10/23/1996",
+    "Closing Date": "open",
+    "Schedule": "Mon,\nTues at 8pm\nThurs-Sat at 8pm\nSat, Sun at 2:30pm\nSun at 7pm",
+    "Tickets": "$37\n- gen rush, $27 SRO"
+  },
+  {
+    "": "",
+    "Show": "Come From Away",
+    "Theater": "Schoenfeld\n236 W. 45th St\nbetween 7th and 8th",
+    "First Preview Date": "2/18/2017",
+    "Closing Date": "open",
+    "Schedule": "Tues at 7pmWed at 8pmThurs at 7pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$38\n- general rush,$32 - SRO"
+  },
+  {
+    "": "",
+    "Show": "Dear Evan Hansen",
+    "Theater": "Music Box239 W. 45th St\n      between 7th and 8th",
+    "First Preview Date": "11/14/2016",
+    "Closing Date": "open",
+    "Schedule": "Tues-Thurs at 7pm\nFri-Sat at 8pm\nSat, Sun at 2pm\nSun at 7:30pm",
+    "Tickets": "$40\n- digital lottery"
+  },
+  {
+    "": "",
+    "Show": "A Doll's House, Part 2",
+    "Theater": "Golden\n252 W. 45th St\nbetween 7th and 8th",
+    "First Preview Date": "3/30/2017",
+    "Closing Date": "7/23/2017",
+    "Schedule": "Tues at 7pm\nWed at 8pm\nThurs at 7pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$30\n- general rush"
+  },
+  {
+    "": "",
+    "Show": "Farinelli and the King",
+    "Theater": "Belasco\n111 W. 44th St\nbetween Broadway and 6th",
+    "First Preview Date": "12/5/2017",
+    "Closing Date": "3/25/2018",
+    "Schedule": "TBA",
+    "Tickets": "TBA"
+  },
+  {
+    "": "",
+    "Show": "Groundhog Day",
+    "Theater": "August Wilson\n      245 W. 52nd St\nbetween Broadway and 8th",
+    "First Preview Date": "3/16/2017",
+    "Closing Date": "open",
+    "Schedule": "Tues at 7pm\nWed at 8pm\nThurs at 7pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$39.50\n- digital lottery,$39.50\n- general rush"
+  },
+  {
+    "": "",
+    "Show": "Hamilton",
+    "Theater": "Richard\nRodgers\n      226 W. 46th St\nbetween Broadway and 8th",
+    "First Preview Date": "7/13/2015",
+    "Closing Date": "open",
+    "Schedule": "Tues at 7pm\nWed at 8pm\nThurs at 7pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$10\n- digital lottery"
+  },
+  {
+    "": "",
+    "Show": "Hello, Dolly!",
+    "Theater": "Shubert\n      225 W. 44th St\nbetween 7th and 8th",
+    "First Preview Date": "3/15/2017",
+    "Closing Date": "open",
+    "Schedule": "Wed at 8pm\nThurs at 7pm\nFri-Sat at 8pm\nWed, Sat, Sun at 2pm",
+    "Tickets": "$47\n- SRO"
+  },
+  {
+    "": "",
+    "Show": "Indecent",
+    "Theater": "Cort\n138 W. 48th St\nbetween 6th and 7th",
+    "First Preview Date": "4/4/2017",
+    "Closing Date": "open",
+    "Schedule": "Tues at 7pm\nWed at 8pm\nThurs at 7pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$30\n- general rush"
+  },
+  {
+    "": "",
+    "Show": "Junk",
+    "Theater": "Vivian Beaumont\n150 W. 65th St\nbetween Broadway and 10th",
+    "First Preview Date": "9/14/2017",
+    "Closing Date": "TBA",
+    "Schedule": "Tues-Wed\nat 7pm\nThurs-Sat\nat 8pm\nWed, Sat, Sun at 2pm",
+    "Tickets": "$32\n- rush"
+  },
+  {
+    "": "",
+    "Show": "Kinky Boots",
+    "Theater": "Hirschfeld\n302 W. 45th St\nbetween 8th and 9th",
+    "First Preview Date": "3/3/2013",
+    "Closing Date": "open",
+    "Schedule": "Tues at 7pm\n      Wed\nat 8pm\nThurs at 7pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$42\n- digital lottery"
+  },
+  {
+    "": "",
+    "Show": "The Lion King",
+    "Theater": "Minskoff\n      200 W. 45th St\nbetween 7th and 8th",
+    "First Preview Date": "10/15/1997",
+    "Closing Date": "open",
+    "Schedule": "Tues,\nWed at 7pm\n      Thurs-Sat at 8pm\n      Sat at 2pm\n      Sun at 1pm\n      Sun at 6:30pm",
+    "Tickets": "$30\n- digital lottery"
+  },
+  {
+    "": "",
+    "Show": "The Little Foxes",
+    "Theater": "Samuel Friedman\n261 W. 47th St\nbetween Broadway and 8th",
+    "First Preview Date": "3/29/2017",
+    "Closing Date": "7/2/2017",
+    "Schedule": "Tues-Wed at 7pmThurs-Sat\nat 8pm\nWed, Sat, Sun at 2pm",
+    "Tickets": "$30\n- rush, $30 Under 30"
+  },
+  {
+    "": "",
+    "Show": "Marvin's Room",
+    "Theater": "American Airlines\n      227 W. 42nd St\nbetween 7th and 8th",
+    "First Preview Date": "6/8/2017",
+    "Closing Date": "8/27/2017",
+    "Schedule": "Tues-Sat\nat 8pm\nWed, Sat, Sun at 2pm7/18-7/28\n      Tues-Sat at 7pm\n      Wed, Sat, Sun at 2pm",
+    "Tickets": "$37\n- gen\nrush, $25 - Hiptix\n($10 first preview),\n      $35\n- mobile lottery"
+  },
+  {
+    "": "",
+    "Show": "Miss Saigon",
+    "Theater": "Broadway\n1681 Broadway\nat 53rd",
+    "First Preview Date": "3/1/2017",
+    "Closing Date": "1/14/2018",
+    "Schedule": "Mon at 8pmTues at 7pm\nWed-Sat at 8pm\nWed, Sat at 2pm",
+    "Tickets": "$39\n- general rush"
+  },
+  {
+    "": "",
+    "Show": "Natasha, Pierre & The\nGreat Comet of 1812",
+    "Theater": "Imperial\n      249 W. 45th St\nbetween 7th and 8th",
+    "First Preview Date": "10/18/2016",
+    "Closing Date": "open",
+    "Schedule": "Tues at 7pm\nWed at 8pm\nThurs at 7pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$39 - general rush,$39\n- digital lottery"
+  },
+  {
+    "": "",
+    "Show": "On Your Feet!",
+    "Theater": "Marquis\n1535 Broadway\nat 46th",
+    "First Preview Date": "10/5/2015",
+    "Closing Date": "open",
+    "Schedule": "Tues, Thurs at 7pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pmSun at 7pm",
+    "Tickets": "$40\n- digital lottery"
+  },
+  {
+    "": "",
+    "Show": "Oslo",
+    "Theater": "Vivian Beaumont\n150 W. 65th St\nbetween Broadway and 10th",
+    "First Preview Date": "3/23/2017",
+    "Closing Date": "6/18/2017",
+    "Schedule": "Tues-Wed\nat 7pm\nThurs-Sat\nat 8pm\nWed, Sat, Sun at 2pm",
+    "Tickets": "$32\n- rush, $32\n- Linctix,$39 - digital lottery"
+  },
+  {
+    "": "",
+    "Show": "The Phantom\nof the Opera",
+    "Theater": "Majestic\n      247 W. 44th St\nbetween 7th and 8th",
+    "First Preview Date": "1/9/1988",
+    "Closing Date": "open",
+    "Schedule": "Mon\nat 8pm\n      Tues at 7pm\n      Wed-Sat at 8pm\n      Thurs, Sat at 2pm",
+    "Tickets": "$28\n- digital lottery,\n      $26.50\n- SRO"
+  },
+  {
+    "": "",
+    "Show": "The Play That Goes Wrong",
+    "Theater": "Lyceum\n149 W. 45th St\nbetween 6th and 7th",
+    "First Preview Date": "3/9/2017",
+    "Closing Date": "open",
+    "Schedule": "Tues-Thurs at 7pm\nFri-Sat at 8pm\nSat at 2pm\nSun at 3pmSun at 7:30pm",
+    "Tickets": "$30\n- general rush"
+  },
+  {
+    "": "",
+    "Show": "Present Laughter",
+    "Theater": "St. James\n246 W. 44th St\nbetween 7th and 8th",
+    "First Preview Date": "3/10/2017",
+    "Closing Date": "open",
+    "Schedule": "Tues at 7pm\nWed at 8pm\nThurs at 7pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$42\n- digital lottery"
+  },
+  {
+    "": "",
+    "Show": "Prince of Broadway",
+    "Theater": "Samuel Friedman\n261 W. 47th St\nbetween Broadway and 8th",
+    "First Preview Date": "8/3/2017",
+    "Closing Date": "10/22/2017",
+    "Schedule": "Before 9/3\nMon-Wed at 7pmThurs-Sat at 8pmWed, Sat at 2pm\n      \n      After 9/3Tues-Wed at 7pmThurs-Sat\nat 8pm\nWed, Sat, Sun at 2pmSun at 7pm",
+    "Tickets": "$30\n- rush, $30 Under 30"
+  },
+  {
+    "": "",
+    "Show": "School of Rock",
+    "Theater": "Winter Garden\n1634 Broadway\nat 49th",
+    "First Preview Date": "11/9/2015",
+    "Closing Date": "open",
+    "Schedule": "Mon, Tues\nat 7pm\nFri-Sat at 7:30pm\nWed, Sat at 2pm\nSun at 1pmSun at 6pm",
+    "Tickets": "$37\n- digital lottery,\n      $37\n- general rush"
+  },
+  {
+    "": "",
+    "Show": "Six Degrees of Separation",
+    "Theater": "Barrymore\n      243\nW. 47th St\nbetween Broadway and 8th",
+    "First Preview Date": "4/5/2017",
+    "Closing Date": "7/16/2017",
+    "Schedule": "Tues at 7pmWed at 8pmThurs at 7pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$32\n- general rush,$32\n- digital lottery"
+  },
+  {
+    "": "",
+    "Show": "Sunset Boulevard",
+    "Theater": "Palace1564 Broadwayat 47th",
+    "First Preview Date": "2/2/2017",
+    "Closing Date": "6/25/2017",
+    "Schedule": "Wed at 8pmThurs at 7pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$42\n- general rush,$55\n- digital lottery"
+  },
+  {
+    "": "",
+    "Show": "Sweat",
+    "Theater": "Studio 54\n254 W. 54th St\nbetween Broadway and 8th",
+    "First Preview Date": "3/4/2017",
+    "Closing Date": "open",
+    "Schedule": "Tues at 7pmWed at 8pmThurs at 7pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$32\n- mobile rush"
+  },
+  {
+    "": "",
+    "Show": "The Terms of My Surrender",
+    "Theater": "Belasco\n111 W. 44th St\nbetween Broadway and 6th",
+    "First Preview Date": "7/28/2017",
+    "Closing Date": "10/22/2017",
+    "Schedule": "Before 8/14\nMon-Sat at 8pm\nSat at 2pm\n      \n      After 8/14\nTues at 7pmWed-Sat at 8pm\nWed, Sat, Sun at 2pm",
+    "Tickets": "TBA"
+  },
+  {
+    "": "",
+    "Show": "Time and the Conways",
+    "Theater": "American Airlines\n      227 W. 42nd St\nbetween 7th and 8th",
+    "First Preview Date": "9/14/2017",
+    "Closing Date": "11/26/2017",
+    "Schedule": "Tues-Sat\nat 8pm\nWed, Sat, Sun at 2pm",
+    "Tickets": "$37\n- gen\nrush, $25 - Hiptix\n($10 first preview),\n      $35\n- mobile lottery"
+  },
+  {
+    "": "",
+    "Show": "Waitress",
+    "Theater": "Brooks Atkinson\n256 W. 47th St\nbetween Broadway and 8th",
+    "First Preview Date": "3/25/2016",
+    "Closing Date": "open",
+    "Schedule": "Tues-Thurs\nat 7:30pm\nFri-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$32\n- SRO"
+  },
+  {
+    "": "",
+    "Show": "War Paint",
+    "Theater": "Nederlander\n208 W. 41st St\nbetween 7th and 8th",
+    "First Preview Date": "3/7/2017",
+    "Closing Date": "open",
+    "Schedule": "Tues at 7pmWed-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$40\n- general rush,$40\n- digital lottery"
+  },
+  {
+    "": "",
+    "Show": "Wicked",
+    "Theater": "Gershwin\n      222 W. 51st St\nbetween Broadway and 8th",
+    "First Preview Date": "10/8/2003",
+    "Closing Date": "open",
+    "Schedule": "Tues-Wed\nat 7pm\nThurs-Sat at 8pm\nWed, Sat at 2pm\nSun at 3pm",
+    "Tickets": "$30\n- lottery,\n      $35\n- digital lottery"
+  }
+]

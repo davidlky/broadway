@@ -12,10 +12,6 @@ app.use(bodyParser.json());
 // serve our static stuff like index.css
 app.use(express.static(path.join(__dirname, '../public')));
 
-// custom routes
-var api_route = require('./routes/api');
-app.use('/api', api_route);
-
 // send all requests to index.html so browserHistory works
 app.get('*', function (req, res) {
     res.sendFile(path.join(__dirname, '../public', 'index.html'));

@@ -21,8 +21,13 @@ module.exports = {
       { 
         test: /\.js$/, 
         exclude: /node_modules/, 
-        loader: 'babel-loader?presets[]=es2015&presets[]=react' 
-      }
+        loader: 'babel-loader',
+        query: {
+          plugins: ['transform-runtime', "transform-decorators-legacy"],
+          presets: ['es2015', 'stage-1', 'react']
+        }
+      },
+      { test: /\.json$/, loader: 'json-loader' }
     ]
   },
 }

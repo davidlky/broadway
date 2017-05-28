@@ -1,4 +1,4 @@
-import config from '../../config.js';
+import config from '../config.json';
 
 export default function(url){
 	if(url.indexOf("/") === 0){

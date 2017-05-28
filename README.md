@@ -1,9 +1,7 @@
-# React Starter
-A simple `react` and `node` stack starter package
+# Broadway for Broke People in React
 
 ## Setup
-1. Create a `config.js` in the root of the repo
-2. Export a JSON with a `url` key
+1. Create a `config.json` in the `app` of the repo that is a JSON with a `url` key
 
 ## To Run
 ```
