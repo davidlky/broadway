@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "broadway",
+    "password": "B0bby1sG@y6969",
+    "database": "broadway",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "broadway",
+    "password": "B0bby1sG@y6969",
+    "database": "broadway",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "broadway",
+    "password": "B0bby1sG@y6969",
+    "database": "broadway",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postres"
+  }
+}

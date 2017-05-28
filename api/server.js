@@ -3,14 +3,29 @@ var path = require('path');
 var compression = require('compression');
 var bodyParser = require('body-parser');
 
+var db = require('./models/index.js');
+
 var app = express();
 
 app.use(compression());
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(bodyParser.json());
 
+db.sequelize
+  .sync()
+  .then(() => {
+    console.log('Connection has been established successfully.');
+  })
+  .catch(err => {
+    console.error('Unable to connect to the database:', err);
+  });
+
 // serve our static stuff like index.css
 app.use(express.static(path.join(__dirname, '../public')));
+
+// custom routes
+var api_route = require('./routes/api');
+app.use('/api', api_route);
 
 // send all requests to index.html so browserHistory works
 app.get('*', function (req, res) {
