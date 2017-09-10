@@ -28,6 +28,7 @@ build/Release
 
 # Dependency directories
 node_modules
+bower_components
 jspm_packages
 
 # Optional npm cache directory
@@ -38,3 +39,5 @@ jspm_packages
 
 public/bundle.js
 config.js
+
+yarn.lock

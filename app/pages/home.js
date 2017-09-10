@@ -11,14 +11,14 @@ export default React.createClass({
         <table className="table table-striped">
           <thead>
             <tr>
-              {columns.shown.map((el) => <th>{el.name}</th>)}
+              {columns.shown.map((el) => <th key={el.name}>{el.name}</th>)}
             </tr>
           </thead>
           <tbody>
-            {broadwayData.map((show) => {
+            {broadwayData.map((show, i) => {
               return (
-                <tr>
-                  {columns.shown.map((el) => <td>{el.value(show)}</td>)}
+                <tr key = {i}>
+                  {columns.shown.map((el, i) => <td key = {i}>{el.value(show)}</td>)}
                 </tr>
                 );
               })

@@ -1,12 +1,12 @@
 {
-  "name": "react_base",
+  "name": "broadway_for_broke_ppl",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "api/server.js",
   "scripts": {
     "start": "webpack && node api/server.js"
   },
-  "author": "",
+  "author": "davidlky <david-lky@hotmail.com>",
   "license": "ISC",
   "dependencies": {
     "babel-core": "^6.5.1",
@@ -24,15 +24,18 @@
     "json-loader": "^0.5.4",
     "mobx": "^3.1.10",
     "mobx-react": "^4.1.8",
+    "pg": "^6.4.0",
     "react": "^0.14.7",
     "react-bootstrap": "^0.29.5",
     "react-dom": "^0.14.7",
     "react-router": "^2.0.0",
-    "react-router-bootstrap": "^0.23.1"
+    "react-router-bootstrap": "^0.23.1",
+    "sequelize": "^4.2.0"
   },
   "devDependencies": {
     "http-server": "^0.8.5",
     "webpack": "^1.12.13",
     "webpack-dev-server": "^1.14.1"
-  }
+  },
+  "repository": "git@github.com:davidlky/broadway.git"
 }

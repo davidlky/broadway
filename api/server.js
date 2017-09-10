@@ -22,6 +22,7 @@ db.sequelize
 
 // serve our static stuff like index.css
 app.use(express.static(path.join(__dirname, '../public')));
+app.use('/bower_components',  express.static(path.join(__dirname, '../bower_components')));
 
 // custom routes
 var api_route = require('./routes/api');
